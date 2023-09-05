@@ -1,0 +1,23 @@
+{
+    "name": "ButtCheck Checker",
+    "short_name": "ButtCheck",
+    "start_url": "index.html",
+  
+    "scope": "./",
+    "icons": [
+      {
+        "src": "assets/icons/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "assets/icons/bunny512.png",
+        "sizes": "512x512",
+        "type": "image/jpg"
+      }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+  }
+  
